@@ -5,6 +5,14 @@
     <description>Maxlo Launcher update feed</description>
     <language>en</language>
           <item>
+            <title>Maxlo Launcher 2.0.3</title>
+            <pubDate>Sun, 21 Jun 2026 23:51:25 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v2.0.3/Maxlo-Launcher-2.0.3-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="SJ2m9EfJlSTsszoMuMxg/UVrYblt5Im8JesumxBt7hAGEsEHcdVaNuY9e6XElgIa3ISbM8KYOZ9BpclrUgVlBg==" length="1527708" />
+        </item>
+    <item>
             <title>Maxlo Launcher 2.0.2</title>
             <pubDate>Sun, 21 Jun 2026 23:40:22 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
