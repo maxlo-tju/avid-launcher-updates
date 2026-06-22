@@ -12,45 +12,5 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v1.0/Maxlo-Launcher-1.0-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="43F5BHR9y/ieayjW6qXe42FAlR0iqy2y6guoZyzsmFbj3xgzhcyVogs1N1PLO4x1DjIuI4vE19CqKOwuD40/Aw==" length="1527840" />
         </item>
-    <item>
-            <title>Maxlo Launcher 2.0.4</title>
-            <pubDate>Mon, 22 Jun 2026 00:03:43 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v2.0.4/Maxlo-Launcher-2.0.4-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="Wi7j4s7FwQSVeBNbZDNY2CRg0M+zaGtAH5m+VxW/qFsvD1q5DjQTxi3VdDAuVx9UTcCd2EPsdTN+zxv9VTXDDQ==" length="1527971" />
-        </item>
-    <item>
-            <title>Maxlo Launcher 2.0.3</title>
-            <pubDate>Sun, 21 Jun 2026 23:51:25 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v2.0.3/Maxlo-Launcher-2.0.3-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="SJ2m9EfJlSTsszoMuMxg/UVrYblt5Im8JesumxBt7hAGEsEHcdVaNuY9e6XElgIa3ISbM8KYOZ9BpclrUgVlBg==" length="1527708" />
-        </item>
-    <item>
-            <title>Maxlo Launcher 2.0.2</title>
-            <pubDate>Sun, 21 Jun 2026 23:40:22 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v2.0.2/Maxlo-Launcher-2.0.2-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="7EFBAis5Vf1SZYEpZ3p4PkI5ujJoGSGnXJ4jbLD6wZhDIBn0kyjtaxlWkx1CNfDf8+vuTJULMzZBpK3IrfxMAg==" length="1527313" />
-        </item>
-    <item>
-            <title>Maxlo Launcher 2.0.1</title>
-            <pubDate>Sun, 21 Jun 2026 20:53:17 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v2.0.1/Maxlo-Launcher-2.0.1-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="N9K3CZzbC1rSqK4QBWAFRCaZJyQkDIAHfwHnig640ZLLYzcJsPkJwoA8v3Fryeq+HuDkOZwF6x9kxYea0LEhDg==" length="1518001" />
-        </item>
-    <item>
-            <title>Maxlo Launcher 2.0.0</title>
-            <pubDate>Sun, 21 Jun 2026 18:24:20 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v2.0.0/Maxlo-Launcher-2.0.0-2026-06-21.dmg" type="application/octet-stream" sparkle:edSignature="fKWwpZhxBSduD5Z0yME0EHlaF45Nji56I/deJAhvnt2lSoI9UqUBpUzyUEHVtjoz+98ROdJBsiF+hnTPzVirCw==" length="1509972" />
-        </item>
   </channel>
 </rss>
