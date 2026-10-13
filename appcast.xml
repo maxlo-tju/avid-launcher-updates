@@ -10,6 +10,28 @@
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<style>
+  body { line-height: 1.45; }
+  h3 { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.65; margin: 14px 0 4px; }
+  ul { margin: 0; padding-left: 18px; }
+  li { margin: 5px 0; }
+  code { font: 11px ui-monospace, Menlo, monospace; }
+</style>
+<h3>Fixed</h3>
+<ul>
+  <li><b>Choppy timeline and Record monitor playback in Media Composer.</b> On Macs where <i>Start for all users on this Mac</i> was turned on (versions 1.0.1 to 1.0.9), macOS ran Maxlo Launcher as a low-priority background task and Avid inherited that priority. Hardware video output was not affected. At login, Maxlo Launcher 1.1 now relaunches itself as a normal app, so the Avid it opens runs at normal priority.<br>
+  <b>After updating, quit Avid and open it again.</b> Anyone else logged in to the same Mac at the time should quit Maxlo Launcher and open it again, or log out and back in.<br>
+  To check a Mac, run this in Terminal with Avid open: <code>ps -axo pri,comm | grep "MacOS/AvidMediaComposer$"</code>. A first number of 20 means affected; 31 or higher is normal.</li>
+  <li><b>Intel Macs:</b> excluding a drive with a very long name now applies throughout Avid.</li>
+</ul>
+<h3>Improved</h3>
+<ul>
+  <li><i>Select all</i> and <i>Deselect all</i> change only the drives shown in the list (including when filtered), and keep your settings for drives that aren't connected.</li>
+  <li>HFS+ (Legacy) drives you turn on from now on are remembered by the drive itself, not just its name, so a different drive with the same name isn't turned on by accident. Drives turned on in earlier versions stay on and are still matched by name until you turn them off and on again.</li>
+  <li>The volume list keeps its scroll position when you tick a drive, and the popover resizes as you filter.</li>
+</ul>
+]]></description>
             <enclosure url="https://github.com/maxlo-tju/avid-launcher-updates/releases/download/v1.1/Maxlo-Launcher-1.1-2026-10-13.dmg" type="application/octet-stream" sparkle:edSignature="PQWcVT3J+hgOxBJP8SH/+Fqr9OmQIn0DXOd5bJRPFSpK0BcLAMuLO7W+67w2G31X8MxKQJnW97si9JCcDTmBCA==" length="1591485" />
         </item>
     <item>
